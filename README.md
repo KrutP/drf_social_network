@@ -28,6 +28,7 @@ mades a last request to the service.</li>
 <li>JWT</li>
 
 <p>To install project type:</p>
+
 ```
 pip install -r requirements.txt
 ```
