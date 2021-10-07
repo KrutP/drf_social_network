@@ -1,6 +1,6 @@
 # drf-social-network
 
-<p> This is simple DRF Social Network with basic implementation<p>
+<p> **This is simple DRF Social Network with basic implementation**<p>
 
 <p>With following features:</p>
 <p>Basic models:</p>
@@ -26,3 +26,8 @@ mades a last request to the service.</li>
 
 <p>Token:</p>
 <li>JWT</li>
+
+<p>To install project type:</p>
+```
+pip install -r requirements.txt
+```
